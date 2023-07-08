@@ -1,0 +1,22 @@
+/* :root {
+    --color-text: blue;
+    --spacing-text: 2em;
+}
+
+p{
+   color:  var(--color-text);
+    padding: var(--spacing-text);
+} */
+
+.parent{
+    --background-color: black;
+    color: white;
+}
+
+.primer{
+    --background-color: purple;
+}
+
+.hijo{
+    background: var(--background-color, blue);
+}

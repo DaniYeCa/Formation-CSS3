@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "RobotoFontRegular";
+    src:url(./assets/fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+.roboto-regular{
+    font-family: "RobotoFontRegular";
+}

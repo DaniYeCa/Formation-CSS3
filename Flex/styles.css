@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+.flex-contaniner-shrink {
+    display: flex;
+    gap: 10px;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shrink-1 {
+    flex-shrink: 0;
+}
+.shrink-2 {
+    flex-shrink: 1;
+}
+.shrink-3 {
+    flex-shrink: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
