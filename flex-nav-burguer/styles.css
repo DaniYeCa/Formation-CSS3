@@ -44,7 +44,7 @@ color: #8d1010;
     display: none;
 }
 
-#chkToogle:checked +ul.main-nav {
+#chkToogle:checked + ul.main-nav {
     display: block;
 }
 

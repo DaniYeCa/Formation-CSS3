@@ -9,14 +9,14 @@
     gap: 10px;
 }
 
-.item {
+/* .item {
     width: 100px;
     height: 100px;
     background-color: coral;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .shrink-1 {
     flex-shrink: 0;
